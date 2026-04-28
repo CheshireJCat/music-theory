@@ -28,7 +28,7 @@ else
   git remote add origin "$REMOTE_URL"
 fi
 
-git add README.md lessons assets scripts .gitignore .github-sync.md
+git add README.md index.md _config.yml lessons assets scripts .gitignore .github-sync.md
 
 if git diff --cached --quiet; then
   echo "No music-theory content changes to commit."

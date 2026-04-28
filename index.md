@@ -1,14 +1,12 @@
 # 乐理学习记录
 
-这个目录用于保存“乐理学习”自动化每天生成的学习内容。
+这个站点用于公开查看“乐理学习”自动化每天生成的学习内容。
 
 ## 使用方式
 
 - 每天学习一个乐理知识点。
 - 每篇都包含：概念解释、钢琴使用场景、吉他使用场景、可演奏例子、PNG 图片、练习任务。
-- 已学主题会同步记录在自动化记忆文件：`/Users/nekos/.codex/automations/automation-2/memory.md`。
-- 每天生成结束后，自动化会调用 `scripts/sync_to_github.sh`，把新增课程内容提交并推送到 GitHub：`https://github.com/CheshireJCat/music-theory`。
-- 公开网页入口：`https://cheshirejcat.github.io/music-theory/`。
+- GitHub Pages 访问地址：`https://cheshirejcat.github.io/music-theory/`
 
 ## 目录
 
@@ -20,3 +18,4 @@
 - [2026-04-24：大调音阶 Major Scale](lessons/2026-04-24-major-scale.md)
 - [2026-04-27：音阶级数与功能 Scale Degrees](lessons/2026-04-27-scale-degrees.md)
 - [2026-04-28：自然大调中的 I-IV-V 和弦](lessons/2026-04-28-i-iv-v-chords.md)
+
