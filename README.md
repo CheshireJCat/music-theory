@@ -21,3 +21,5 @@
 - [2026-04-27：音阶级数与功能 Scale Degrees](lessons/2026-04-27-scale-degrees.md)
 - [2026-04-28：自然大调中的 I-IV-V 和弦](lessons/2026-04-28-i-iv-v-chords.md)
 - [2026-04-29：属七和弦 V7](lessons/2026-04-29-dominant-seventh.md)
+- [2026-04-30：正格终止 Authentic Cadence](lessons/2026-04-30-authentic-cadence.md)
+- [2026-05-02：半终止 Half Cadence](lessons/2026-05-02-half-cadence.md)
