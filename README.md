@@ -24,3 +24,4 @@
 - [2026-04-30：正格终止 Authentic Cadence](lessons/2026-04-30-authentic-cadence.md)
 - [2026-05-02：半终止 Half Cadence](lessons/2026-05-02-half-cadence.md)
 - [2026-05-03：变格终止 Plagal Cadence](lessons/2026-05-03-plagal-cadence.md)
+- [2026-05-04：终止四六 Cadential 6/4](lessons/2026-05-04-cadential-64.md)
