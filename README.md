@@ -26,3 +26,4 @@
 - [2026-05-03：变格终止 Plagal Cadence](lessons/2026-05-03-plagal-cadence.md)
 - [2026-05-04：终止四六 Cadential 6/4](lessons/2026-05-04-cadential-64.md)
 - [2026-05-05：二级和弦 ii 的前属功能 Predominant ii](lessons/2026-05-05-predominant-ii.md)
+- [2026-05-06：二级七和弦 ii7 的前属功能 Predominant ii7](lessons/2026-05-06-predominant-ii7.md)
