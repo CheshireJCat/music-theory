@@ -28,3 +28,4 @@
 - [2026-05-05：二级和弦 ii 的前属功能 Predominant ii](lessons/2026-05-05-predominant-ii.md)
 - [2026-05-06：二级七和弦 ii7 的前属功能 Predominant ii7](lessons/2026-05-06-predominant-ii7.md)
 - [2026-05-07：ii-V-I 和声进行 ii-V-I Progression](lessons/2026-05-07-ii-v-i-progression.md)
+- [2026-05-08：小调中的 ii半减七-V7-i Minor ii Half-Diminished - V7 - i](lessons/2026-05-08-minor-ii-half-diminished-v7-i.md)
