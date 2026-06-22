@@ -55,3 +55,5 @@
 - [2026-06-12：Bongo Bell Pattern](lessons/2026-06-12-bongo-bell-pattern.md)
 - [2026-06-15：Campana Pattern](lessons/2026-06-15-campana-pattern.md)
 - [2026-06-16：Mozambique Bell Pattern](lessons/2026-06-16-mozambique-bell-pattern.md)
+- [2026-06-17：Songo Bell Pattern](lessons/2026-06-17-songo-bell-pattern.md)
+- [2026-06-22：Timba Bell Pattern](lessons/2026-06-22-timba-bell-pattern.md)
