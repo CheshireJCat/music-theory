@@ -58,3 +58,4 @@
 - [2026-06-17：Songo Bell Pattern](lessons/2026-06-17-songo-bell-pattern.md)
 - [2026-06-22：Timba Bell Pattern](lessons/2026-06-22-timba-bell-pattern.md)
 - [2026-06-23：Timba Gear Change](lessons/2026-06-23-timba-gear-change.md)
+- [2026-06-24：Timba Piano Marcha](lessons/2026-06-24-timba-piano-marcha.md)
