@@ -57,3 +57,6 @@
 - [2026-06-22：Timba Bell Pattern](lessons/2026-06-22-timba-bell-pattern.md)
 - [2026-06-23：Timba Gear Change](lessons/2026-06-23-timba-gear-change.md)
 - [2026-06-24：Timba Piano Marcha](lessons/2026-06-24-timba-piano-marcha.md)
+- [2026-06-25：Timba Bloque](lessons/2026-06-25-timba-bloque.md)
+- [2026-06-26：Timba Moña](lessons/2026-06-26-timba-mona.md)
+- [2026-06-29：Timba Mambo Horn Hits](lessons/2026-06-29-timba-mambo-horn-hits.md)
