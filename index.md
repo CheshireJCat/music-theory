@@ -62,3 +62,4 @@
 - [2026-06-29：Timba Mambo Horn Hits](lessons/2026-06-29-timba-mambo-horn-hits.md)
 - [2026-06-30：Timba Breakdown](lessons/2026-06-30-timba-breakdown.md)
 - [2026-07-01：Timba Pedal Breakdown](lessons/2026-07-01-timba-pedal-breakdown.md)
+- [2026-07-02：Timba Re-Entry Hit](lessons/2026-07-02-timba-re-entry-hit.md)
