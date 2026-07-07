@@ -65,3 +65,6 @@
 - [2026-06-30：Timba Breakdown](lessons/2026-06-30-timba-breakdown.md)
 - [2026-07-01：Timba Pedal Breakdown](lessons/2026-07-01-timba-pedal-breakdown.md)
 - [2026-07-02：Timba Re-Entry Hit](lessons/2026-07-02-timba-re-entry-hit.md)
+- [2026-07-03：Timba Re-Entry Marcha Lock](lessons/2026-07-03-timba-re-entry-marcha-lock.md)
+- [2026-07-06：Timba Marcha Kick Anticipation](lessons/2026-07-06-timba-marcha-kick-anticipation.md)
+- [2026-07-07：Timba Contratiempo Punch](lessons/2026-07-07-timba-contratiempo-punch.md)
