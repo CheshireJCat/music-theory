@@ -70,3 +70,5 @@
 - [2026-07-07：Timba Contratiempo Punch](lessons/2026-07-07-timba-contratiempo-punch.md)
 - [2026-07-08：Timba Palm Mute Lift](lessons/2026-07-08-timba-palm-mute-lift.md)
 - [2026-07-09：Timba Gear Release Accent](lessons/2026-07-09-timba-gear-release-accent.md)
+- [2026-07-10：Timba Cross-Stick Cue](lessons/2026-07-10-timba-cross-stick-cue.md)
+- [2026-07-13：Timba Section Entry Lock](lessons/2026-07-13-timba-section-entry-lock.md)
