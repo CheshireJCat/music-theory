@@ -72,3 +72,5 @@
 - [2026-07-09：Timba Gear Release Accent](lessons/2026-07-09-timba-gear-release-accent.md)
 - [2026-07-10：Timba Cross-Stick Cue](lessons/2026-07-10-timba-cross-stick-cue.md)
 - [2026-07-13：Timba Section Entry Lock](lessons/2026-07-13-timba-section-entry-lock.md)
+- [2026-07-14：Timba Entry Accent Stack](lessons/2026-07-14-timba-entry-accent-stack.md)
+- [2026-07-15：Timba Entry Accent Release](lessons/2026-07-15-timba-entry-accent-release.md)
