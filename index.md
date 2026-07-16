@@ -72,3 +72,4 @@
 - [2026-07-13：Timba Section Entry Lock](lessons/2026-07-13-timba-section-entry-lock.md)
 - [2026-07-14：Timba Entry Accent Stack](lessons/2026-07-14-timba-entry-accent-stack.md)
 - [2026-07-15：Timba Entry Accent Release](lessons/2026-07-15-timba-entry-accent-release.md)
+- [2026-07-16：Timba Marcha Rebound](lessons/2026-07-16-timba-marcha-rebound.md)
