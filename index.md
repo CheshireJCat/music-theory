@@ -73,3 +73,5 @@
 - [2026-07-14：Timba Entry Accent Stack](lessons/2026-07-14-timba-entry-accent-stack.md)
 - [2026-07-15：Timba Entry Accent Release](lessons/2026-07-15-timba-entry-accent-release.md)
 - [2026-07-16：Timba Marcha Rebound](lessons/2026-07-16-timba-marcha-rebound.md)
+- [2026-07-17：Timba Rebound Cue Chain](lessons/2026-07-17-timba-rebound-cue-chain.md)
+- [2026-07-20：Timba Rebound Landing](lessons/2026-07-20-timba-rebound-landing.md)
